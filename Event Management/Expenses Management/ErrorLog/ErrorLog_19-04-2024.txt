@@ -1,0 +1,116 @@
+------------------------------------------19-04-2024 06:00:54 PM------------------------------------------
+UserController => publishedEvent => strat
+------------------------------------------19-04-2024 06:00:54 PM------------------------------------------
+publishedEvent => PublishEvent => Started
+------------------------------------------19-04-2024 06:01:21 PM------------------------------------------
+EventController => getActiveEvent => insert 
+------------------------------------------19-04-2024 06:01:21 PM------------------------------------------
+gertActiveEvent => gertActiveEventInfo => Started
+------------------------------------------19-04-2024 06:03:05 PM------------------------------------------
+EventController => AddEvent => insert Model.EventEntity
+------------------------------------------19-04-2024 06:03:05 PM------------------------------------------
+AddEventInfo => insertEvent => Started
+------------------------------------------19-04-2024 06:03:06 PM------------------------------------------
+EventController => getActiveEvent => insert 
+------------------------------------------19-04-2024 06:03:06 PM------------------------------------------
+gertActiveEvent => gertActiveEventInfo => Started
+------------------------------------------19-04-2024 06:03:08 PM------------------------------------------
+EventController => getEventDate => insert 
+------------------------------------------19-04-2024 06:03:08 PM------------------------------------------
+GetDateOfEvent => DateOfEvent => Started
+------------------------------------------19-04-2024 06:03:55 PM------------------------------------------
+ActivityController => addActivity => insert
+------------------------------------------19-04-2024 06:03:55 PM------------------------------------------
+InsertActivity => InsertActivityInfo => Started
+------------------------------------------19-04-2024 06:03:56 PM------------------------------------------
+EventController => getActiveEvent => insert 
+------------------------------------------19-04-2024 06:03:56 PM------------------------------------------
+gertActiveEvent => gertActiveEventInfo => Started
+------------------------------------------19-04-2024 06:03:59 PM------------------------------------------
+EventController => getActiveEvent => insert 
+------------------------------------------19-04-2024 06:03:59 PM------------------------------------------
+gertActiveEvent => gertActiveEventInfo => Started
+------------------------------------------19-04-2024 06:04:06 PM------------------------------------------
+EventController => getEventDate => insert 
+------------------------------------------19-04-2024 06:04:06 PM------------------------------------------
+GetDateOfEvent => DateOfEvent => Started
+------------------------------------------19-04-2024 06:04:27 PM------------------------------------------
+ActivityController => addActivity => insert
+------------------------------------------19-04-2024 06:04:27 PM------------------------------------------
+InsertActivity => InsertActivityInfo => Started
+------------------------------------------19-04-2024 06:04:51 PM------------------------------------------
+ActivityController => addActivity => insert
+------------------------------------------19-04-2024 06:04:51 PM------------------------------------------
+InsertActivity => InsertActivityInfo => Started
+------------------------------------------19-04-2024 06:04:56 PM------------------------------------------
+PaggingController => Eventcount => insert 
+------------------------------------------19-04-2024 06:04:56 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:04:56 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:04:56 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:12 PM------------------------------------------
+PaggingController => Eventcount => insert 
+------------------------------------------19-04-2024 06:05:12 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:12 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:05:12 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:15 PM------------------------------------------
+UserController => AllEventsinfo => strat 
+------------------------------------------19-04-2024 06:05:15 PM------------------------------------------
+Alleventsinfo => publishevents => Started
+------------------------------------------19-04-2024 06:05:15 PM------------------------------------------
+StringConvert => StringToImage => ExceptionCould not find a part of the path 'C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 10\Event Management\Expenses Management\image\img_11-04-2024 04-43-37 PM.jpg'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at BL.StringConvert.StringToImage(String path) in D:\Desktop\Darshan optimum\Event Management\Event-Management\Event Management\BL\StringConvert.cs:line 63
+------------------------------------------19-04-2024 06:05:15 PM------------------------------------------
+StringConvert => StringToImage => ExceptionCould not find a part of the path 'C:\Users\Priya Sutariya\Desktop\Darshan Vaghani\Week 10\Event Management\Expenses Management\image\img_11-04-2024 04-43-37 PM.jpg'.   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at BL.StringConvert.StringToImage(String path) in D:\Desktop\Darshan optimum\Event Management\Event-Management\Event Management\BL\StringConvert.cs:line 63
+------------------------------------------19-04-2024 06:05:20 PM------------------------------------------
+PaggingController => Eventcount => insert 
+------------------------------------------19-04-2024 06:05:20 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:20 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:05:20 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:24 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:05:24 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:25 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:05:25 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:35 PM------------------------------------------
+UserController => publishedEvent => strat
+------------------------------------------19-04-2024 06:05:35 PM------------------------------------------
+publishedEvent => PublishEvent => Started
+------------------------------------------19-04-2024 06:05:37 PM------------------------------------------
+EventController => getActiveEvent => insert 
+------------------------------------------19-04-2024 06:05:37 PM------------------------------------------
+gertActiveEvent => gertActiveEventInfo => Started
+------------------------------------------19-04-2024 06:05:40 PM------------------------------------------
+EventController => PublishEvent => insert 
+------------------------------------------19-04-2024 06:05:40 PM------------------------------------------
+PublishEvent => publish => Started
+------------------------------------------19-04-2024 06:05:43 PM------------------------------------------
+PaggingController => Eventcount => insert 
+------------------------------------------19-04-2024 06:05:43 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:43 PM------------------------------------------
+PaggingController => GetEventDataForPage => insert 
+------------------------------------------19-04-2024 06:05:43 PM------------------------------------------
+UserLoginInfo => userLogin => Started
+------------------------------------------19-04-2024 06:05:46 PM------------------------------------------
+UserController => AllEventsinfo => strat 
+------------------------------------------19-04-2024 06:05:46 PM------------------------------------------
+Alleventsinfo => publishevents => Started
